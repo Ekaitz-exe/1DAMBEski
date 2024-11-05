@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Formularios</title>
+        <meta charset="UTF-8" />
+    </head>
+    <body>
+		<!--TODOS los controles de un formulario deben ir dentro de la etiqueta form-->
+		<header><h1>Formulario para hacer pedido de una camiseta</h1></header>
+		<section>
+			<form>
+				<fieldset> <!--Agrupamos los datos por su semántica (significado)-->
+					<legend>Datos personales</legend>
+					<label>Usuario:</label><input type="text" placeholder="Introduce tu id" name="usuario">
+					<label>Contraseña:</label><input type="password" title="La contraseña debe tener 8 caracteres mínimo">
+					<label>Mail:</label><input type="email" name="email">
+					<label>Teléfono:</label><input type="tel" name="teléfono">
+					<label>Fecha de nacimiento:</label><input type="date" name="fechaNac">
+				</fieldset>
+
+				<fieldset>
+					<legend>Datos pedido:</legend>
+					<label>Color favorito: </label><input type="color">
+					
+						
+					<p>¿Qué grupo prefieres?</p> <!--Aquí podemos poner una etiqueta de texto: p, span... ya que no está etiquetando ningún campo-->
+						<input type="radio" name="música" value="Piratas"><label>Los Piratas</label>
+						<input type="radio" name="música" value="Lory Meyers"><label>Lory Meyers</label>
+						<!--Recuerda que los radio tienen que tener el mismo valor de name para formar un "grupo" y distintos values para que cuando recuperes el dato en el servidor sepamos el valor del campo seleccionado-->
+					<label>¿Qué talla de camiseta quieres?</label>
+						<select>
+							<option>S</option>
+							<option>M</option>
+							<option>L</option>
+						</select>
+				</fieldset>
+				
+				<!-- En los checkbox usaremos el value para en el servidor saber el campo seleccionado. El name puede coincidir sin pertenecen a una misma temática o no si son de distinta temática-->
+				<input type="checkbox" value="licencia" checked />
+				<label>He leído y acepto...</label>
+				<input type="checkbox" value="newsletter" />
+				<label>Me quiero subscribir...</label>
+				<input type="submit" value="Enviar" />	
+			</form>
+		</section>
+    </body>
+</html>
+<!--Todo lo de los formularios tienen que ir dentro de form-->
