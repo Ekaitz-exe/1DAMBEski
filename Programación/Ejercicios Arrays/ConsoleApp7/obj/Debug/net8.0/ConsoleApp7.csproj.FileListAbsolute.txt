@@ -1,0 +1,14 @@
+D:\1º DAM B\Programación\Temas\Tema 3\Ejercicios Arrays\ConsoleApp7\bin\Debug\net8.0\ConsoleApp7.exe
+D:\1º DAM B\Programación\Temas\Tema 3\Ejercicios Arrays\ConsoleApp7\bin\Debug\net8.0\ConsoleApp7.deps.json
+D:\1º DAM B\Programación\Temas\Tema 3\Ejercicios Arrays\ConsoleApp7\bin\Debug\net8.0\ConsoleApp7.runtimeconfig.json
+D:\1º DAM B\Programación\Temas\Tema 3\Ejercicios Arrays\ConsoleApp7\bin\Debug\net8.0\ConsoleApp7.dll
+D:\1º DAM B\Programación\Temas\Tema 3\Ejercicios Arrays\ConsoleApp7\bin\Debug\net8.0\ConsoleApp7.pdb
+D:\1º DAM B\Programación\Temas\Tema 3\Ejercicios Arrays\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º DAM B\Programación\Temas\Tema 3\Ejercicios Arrays\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.AssemblyInfoInputs.cache
+D:\1º DAM B\Programación\Temas\Tema 3\Ejercicios Arrays\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.AssemblyInfo.cs
+D:\1º DAM B\Programación\Temas\Tema 3\Ejercicios Arrays\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.csproj.CoreCompileInputs.cache
+D:\1º DAM B\Programación\Temas\Tema 3\Ejercicios Arrays\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.dll
+D:\1º DAM B\Programación\Temas\Tema 3\Ejercicios Arrays\ConsoleApp7\obj\Debug\net8.0\refint\ConsoleApp7.dll
+D:\1º DAM B\Programación\Temas\Tema 3\Ejercicios Arrays\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.pdb
+D:\1º DAM B\Programación\Temas\Tema 3\Ejercicios Arrays\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.genruntimeconfig.cache
+D:\1º DAM B\Programación\Temas\Tema 3\Ejercicios Arrays\ConsoleApp7\obj\Debug\net8.0\ref\ConsoleApp7.dll

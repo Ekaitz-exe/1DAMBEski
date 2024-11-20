@@ -1,0 +1,8 @@
+D:\1º DAM B\Programación\Temas\Tema 3\Ejercicios Arrays\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º DAM B\Programación\Temas\Tema 3\Ejercicios Arrays\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.AssemblyInfoInputs.cache
+D:\1º DAM B\Programación\Temas\Tema 3\Ejercicios Arrays\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.AssemblyInfo.cs
+D:\1º DAM B\Programación\Temas\Tema 3\Ejercicios Arrays\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+F:\1º DAM B\Programación\Temas\Tema 3\Ejercicios Arrays\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+F:\1º DAM B\Programación\Temas\Tema 3\Ejercicios Arrays\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.AssemblyInfoInputs.cache
+F:\1º DAM B\Programación\Temas\Tema 3\Ejercicios Arrays\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.AssemblyInfo.cs
+F:\1º DAM B\Programación\Temas\Tema 3\Ejercicios Arrays\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.csproj.CoreCompileInputs.cache
