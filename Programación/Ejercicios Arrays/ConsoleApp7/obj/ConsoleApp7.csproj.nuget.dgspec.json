@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\1º DAM B\\Programación\\Temas\\Tema 3\\Ejercicios Arrays\\ConsoleApp7\\ConsoleApp7.csproj": {}
+    "C:\\Users\\Ekaitz Pacho Martín\\Documents\\Repositorio Clonado Clase\\1DAMBEski\\Programación\\Ejercicios Arrays\\ConsoleApp7\\ConsoleApp7.csproj": {}
   },
   "projects": {
-    "D:\\1º DAM B\\Programación\\Temas\\Tema 3\\Ejercicios Arrays\\ConsoleApp7\\ConsoleApp7.csproj": {
+    "C:\\Users\\Ekaitz Pacho Martín\\Documents\\Repositorio Clonado Clase\\1DAMBEski\\Programación\\Ejercicios Arrays\\ConsoleApp7\\ConsoleApp7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1º DAM B\\Programación\\Temas\\Tema 3\\Ejercicios Arrays\\ConsoleApp7\\ConsoleApp7.csproj",
+        "projectUniqueName": "C:\\Users\\Ekaitz Pacho Martín\\Documents\\Repositorio Clonado Clase\\1DAMBEski\\Programación\\Ejercicios Arrays\\ConsoleApp7\\ConsoleApp7.csproj",
         "projectName": "ConsoleApp7",
-        "projectPath": "D:\\1º DAM B\\Programación\\Temas\\Tema 3\\Ejercicios Arrays\\ConsoleApp7\\ConsoleApp7.csproj",
-        "packagesPath": "C:\\Users\\alumno\\.nuget\\packages\\",
-        "outputPath": "D:\\1º DAM B\\Programación\\Temas\\Tema 3\\Ejercicios Arrays\\ConsoleApp7\\obj\\",
+        "projectPath": "C:\\Users\\Ekaitz Pacho Martín\\Documents\\Repositorio Clonado Clase\\1DAMBEski\\Programación\\Ejercicios Arrays\\ConsoleApp7\\ConsoleApp7.csproj",
+        "packagesPath": "C:\\Users\\Ekaitz Pacho Martín\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ekaitz Pacho Martín\\Documents\\Repositorio Clonado Clase\\1DAMBEski\\Programación\\Ejercicios Arrays\\ConsoleApp7\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alumno\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Ekaitz Pacho Martín\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

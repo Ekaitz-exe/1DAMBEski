@@ -12,3 +12,18 @@ D:\1º DAM B\Programación\Temas\Tema 3\Ejercicios Arrays\ConsoleApp7\obj\Debug\
 D:\1º DAM B\Programación\Temas\Tema 3\Ejercicios Arrays\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.pdb
 D:\1º DAM B\Programación\Temas\Tema 3\Ejercicios Arrays\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.genruntimeconfig.cache
 D:\1º DAM B\Programación\Temas\Tema 3\Ejercicios Arrays\ConsoleApp7\obj\Debug\net8.0\ref\ConsoleApp7.dll
+C:\Users\Ekaitz Pacho Martín\Documents\Repositorio Clonado Clase\1DAMBEski\Programación\Ejercicios Arrays\ConsoleApp7\bin\Debug\net8.0\ConsoleApp7.exe
+C:\Users\Ekaitz Pacho Martín\Documents\Repositorio Clonado Clase\1DAMBEski\Programación\Ejercicios Arrays\ConsoleApp7\bin\Debug\net8.0\ConsoleApp7.deps.json
+C:\Users\Ekaitz Pacho Martín\Documents\Repositorio Clonado Clase\1DAMBEski\Programación\Ejercicios Arrays\ConsoleApp7\bin\Debug\net8.0\ConsoleApp7.runtimeconfig.json
+C:\Users\Ekaitz Pacho Martín\Documents\Repositorio Clonado Clase\1DAMBEski\Programación\Ejercicios Arrays\ConsoleApp7\bin\Debug\net8.0\ConsoleApp7.dll
+C:\Users\Ekaitz Pacho Martín\Documents\Repositorio Clonado Clase\1DAMBEski\Programación\Ejercicios Arrays\ConsoleApp7\bin\Debug\net8.0\ConsoleApp7.pdb
+C:\Users\Ekaitz Pacho Martín\Documents\Repositorio Clonado Clase\1DAMBEski\Programación\Ejercicios Arrays\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ekaitz Pacho Martín\Documents\Repositorio Clonado Clase\1DAMBEski\Programación\Ejercicios Arrays\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.AssemblyInfoInputs.cache
+C:\Users\Ekaitz Pacho Martín\Documents\Repositorio Clonado Clase\1DAMBEski\Programación\Ejercicios Arrays\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.AssemblyInfo.cs
+C:\Users\Ekaitz Pacho Martín\Documents\Repositorio Clonado Clase\1DAMBEski\Programación\Ejercicios Arrays\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\Ekaitz Pacho Martín\Documents\Repositorio Clonado Clase\1DAMBEski\Programación\Ejercicios Arrays\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.sourcelink.json
+C:\Users\Ekaitz Pacho Martín\Documents\Repositorio Clonado Clase\1DAMBEski\Programación\Ejercicios Arrays\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.dll
+C:\Users\Ekaitz Pacho Martín\Documents\Repositorio Clonado Clase\1DAMBEski\Programación\Ejercicios Arrays\ConsoleApp7\obj\Debug\net8.0\refint\ConsoleApp7.dll
+C:\Users\Ekaitz Pacho Martín\Documents\Repositorio Clonado Clase\1DAMBEski\Programación\Ejercicios Arrays\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.pdb
+C:\Users\Ekaitz Pacho Martín\Documents\Repositorio Clonado Clase\1DAMBEski\Programación\Ejercicios Arrays\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.genruntimeconfig.cache
+C:\Users\Ekaitz Pacho Martín\Documents\Repositorio Clonado Clase\1DAMBEski\Programación\Ejercicios Arrays\ConsoleApp7\obj\Debug\net8.0\ref\ConsoleApp7.dll
